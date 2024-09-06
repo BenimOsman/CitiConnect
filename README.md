@@ -21,7 +21,6 @@ The project offers a centralized platform for accessing city information, featur
 
 **HOW TO EXECUTE:**
 
-For using Oracle DB follow simple steps:
 Step 1: Creating New User Account in SQL
 ----------------------------------------
 Command: create user <username> identified by <password>;
