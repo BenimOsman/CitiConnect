@@ -17,6 +17,8 @@ The project offers a centralized platform for accessing city information, featur
 
 ****WebRoot Link:**** https://drive.google.com/drive/folders/1zjNejfQyaoq_r8TsUijwgH9c9TZQ4878?usp=sharing 
 
+
+
 **HOW TO EXECUTE:**
 
 For using Oracle DB follow simple steps:
